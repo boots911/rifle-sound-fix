@@ -1,0 +1,18 @@
+# Gradle / build output
+.gradle/
+build/
+out/
+
+# ForgeGradle working dirs
+run/
+eclipse/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/

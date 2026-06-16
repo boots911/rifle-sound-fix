@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "riflesoundfix",
+    "name": "Rifle Sound Fix",
+    "description": "Client-side 1.8.9 fix that lets the client play Hypixel's fireworks.largeblast sound, which vanilla cannot resolve. No other sounds are affected.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/boots911/rifle-sound-fix",
+    "authorList": [
+      "boots911"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
